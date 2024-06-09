@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/sina-abdolhosseini-someh-3b8101294">
+  <a href="https://linkedin.com/in/sina-abdolhosseini-someh-3b8101294">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   <a href="mailto:sinaedu7@gmail.com">
@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 - I am a Software Engineer.
 - Currently studying computer science at Iran University of Science & Technology(IUST).
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sina-abdolhosseini-someh-3b8101294)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sina-abdolhosseini-someh-3b8101294)
 
 ---
 
